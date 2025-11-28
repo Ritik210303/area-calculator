@@ -1,4 +1,4 @@
-# 📘 Advance Programming in C – Area Calculation Program
+## 📘 Advance Programming in C – Area Calculation Program
 
 This project was created as a **Semester 2 Case Study for the subject CA407: Advance Programming in C**.
 It demonstrates multiple advanced C programming concepts by creating a menu-driven program that calculates the area of different shapes using pointers, dynamic memory, and user-defined functions.
