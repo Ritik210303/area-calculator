@@ -34,7 +34,7 @@ area-calculator/
 ├── src/
 │   └── area_calculator.c
 ├── docs/
-│   └── APC case study project.docx
+│   └── APC case study project.pdf
 │   └── output.png
 └── README.md
 ```
